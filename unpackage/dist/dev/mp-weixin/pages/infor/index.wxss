@@ -1,0 +1,17 @@
+.information_box {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+}
+.information_box .wait {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  margin-top: 30%;
+  width: 560rpx;
+  height: 460rpx;
+}
+
