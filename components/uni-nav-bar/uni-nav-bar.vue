@@ -102,13 +102,16 @@
 
 <style>
 	@charset "UTF-8";
-
+	.uni-navbar{
+		background: inherit;
+	}
 	.uni-navbar__content {
 		display: block;
 		position: relative;
 		width: 100%;
-		background-color: #fff;
-		overflow: hidden
+		/* background-color: #fff; */
+		overflow: hidden;
+		background: inherit;
 	}
 
 	.uni-navbar__content .uni-navbar__content_view {

@@ -1,0 +1,8 @@
+.gx_header uni-nav-bar.data-v-5318a0ae,
+.gx_header .uni-navbar.data-v-5318a0ae,
+.gx_header .uni-navbar__content.data-v-5318a0ae,
+.gx_header.data-v-5318a0ae .uni-navbar,
+.gx_header.data-v-5318a0ae .uni-navbar__content {
+  background: inherit !important;
+}
+

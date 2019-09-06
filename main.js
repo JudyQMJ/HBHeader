@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import App from './App'
 
-// import pageHead from './components/page-head.vue'
-import pageHead from './pages/components/GxHeader.vue'
+import pageHead from './components/page-head.vue'
+import GxHeader from './pages/components/GxHeader.vue'
 import pageFoot from './components/page-foot.vue'
 import uLink from '@/components/uLink.vue'
 import store from './store'
@@ -22,6 +22,7 @@ Vue.prototype.$backgroundAudioData = {
 Vue.component('page-head', pageHead)
 Vue.component('page-foot', pageFoot)
 Vue.component('uLink', uLink)
+Vue.component('gx-header', GxHeader)
 
 App.mpType = 'app'
 

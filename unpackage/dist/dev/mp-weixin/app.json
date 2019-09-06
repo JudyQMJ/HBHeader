@@ -38,8 +38,10 @@
     }
   },
   "usingComponents": {
-    "page-head": "/pages/components/GxHeader",
+    "page-head": "/components/page-head",
     "page-foot": "/components/page-foot",
-    "u-link": "/components/uLink"
-  }
+    "u-link": "/components/uLink",
+    "gx-header": "/pages/components/GxHeader"
+  },
+  "sitemapLocation": "sitemap79.json"
 }
